@@ -1,0 +1,40 @@
+----------------------------------------------
+FreqItemsets:
+----------------------------------------------
+[brown bread] £º638
+[bottled beer] £º792
+[butter] £º545
+[root vegetables] £º1072
+[whole milk] £º2513
+[newspapers] £º785
+[tropical fruit] £º1032
+[curd] £º524
+[other vegetables] £º1903
+[other vegetables,whole milk] £º736
+[domestic eggs] £º624
+[shopping bags] £º969
+[beef] £º516
+[frankfurter] £º580
+[rolls/buns] £º1809
+[rolls/buns,whole milk] £º557
+[canned beer] £º764
+[sausage] £º924
+[napkins] £º515
+[soda] £º1715
+[margarine] £º576
+[pip fruit] £º744
+[yogurt] £º1372
+[yogurt,whole milk] £º551
+[coffee] £º571
+[fruit/vegetable juice] £º711
+[pastry] £º875
+[pork] £º567
+[whipped/sour cream] £º705
+[citrus fruit] £º814
+[bottled water] £º1087
+----------------------------------------------
+AssociationRules:
+----------------------------------------------
+[rolls/buns]-->[whole milk] £º0.30790491984521834
+[other vegetables]-->[whole milk] £º0.38675775091960063
+[yogurt]-->[whole milk] £º0.40160349854227406
